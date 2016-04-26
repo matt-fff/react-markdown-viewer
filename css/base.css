@@ -1,0 +1,9 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #fefefe;
+}
+
+.markdownBox {
+  width: 100%;
+  max-width: 100%;
+}
